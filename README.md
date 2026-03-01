@@ -1,7 +1,6 @@
 # Hi 👋, I'm Abdelwahab
 
-            ### A passionate Mobile Developer, Competitive Programmer, and Problem-solving Instructor
-
+           A passionate Mobile Developer, Competitive Programmer, and Problem-solving Instructor
 - 🏆 **ACPC 2025 Finalist.**
 - 🎓 Junior Student at October 6 University.
 - 💻 My main stack is **Flutter**.

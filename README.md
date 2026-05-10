@@ -32,5 +32,5 @@
 ### 📊 My Competitive Programming Profiles:
 <p align="left">
   <a href="https://codeforces.com/profile/Abdelwahab"><img src="https://img.shields.io/badge/Codeforces-445?style=for-the-badge&logo=Codeforces&logoColor=white&color=1f8acb" /></a>
-  <a href="https://leetcode.com/u/abdelwahab_emad/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/abdelwahab_123/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 </p>

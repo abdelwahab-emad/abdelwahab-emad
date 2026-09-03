@@ -1,30 +1,41 @@
 # Hi 👋, I'm Abdelwahab Emad
 
-Mobile Developer (Flutter) | Competitive Programmer | ACPC 2025 Finalist
+A passionate Mobile Developer, Competitive Programmer, and Problem-solving Instructor
 
-- 📫 How to reach me [abd916587@gmail.com](mailto:abd916587@gmail.com)
+- 🏆 **ACPC 2025 Finalist**
+- 🎓 Senior Student at October 6 University
+- 💻 My main stack is **Flutter**
 
-### Connect with me:
+---
 
-<p align="left">
-  <a href="https://github.com/abdelwahab-emad" target="_blank"><img align="center" src="https://img.icons8.com/color/48/github-circled.png" alt="github" height="35" width="35" /></a>
-  <a href="https://www.linkedin.com/in/abdelwahab-elrashidy-b74695298" target="_blank"><img align="center" src="https://img.icons8.com/color/48/linkedin-circled.png" alt="linkedin" height="35" width="35" /></a>
-  <a href="https://www.facebook.com/abdelwahab.elrashidy/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/facebook-circled.png" alt="facebook" height="35" width="35" /></a>
-  <a href="https://wa.me/201027234290" target="_blank"><img align="center" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp" height="35" width="35" /></a>
-  <a href="mailto:abd916587@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/circled-envelope.png" alt="gmail" height="35" width="35" /></a>
-</p>
-
-### Languages and Tools:
+### 🛠️ Languages and Tools:
 
 <p align="left">
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/></a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/></a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-%23ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-<p align="left"> 
-  <img src="https://streak-stats.demolab.com?user=abdelwahab-emad&theme=default&hide_border=true" alt="abdelwahab-emad" />
+---
+
+### 🔗 Connect with me:
+
+<p align="left">
+  <a href="mailto:abd916587@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/abdelwahab-emad"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://wa.me/201027234290"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abdelwahab-elrashidy-b74695298"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/abdelwahab.elrashidy/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
+---
+
+### 📊 My Competitive Programming Profiles:
+
+<p align="left">
+  <a href="https://codeforces.com/profile/Abdelwahab"><img src="https://img.shields.io/badge/Codeforces-445?style=for-the-badge&logo=Codeforces&logoColor=white&color=1f8acb" /></a>
+  <a href="https://leetcode.com/u/abdelwahab_123/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://atcoder.jp/users/abdelwahab_123"><img src="https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=atcoder&logoColor=white" /></a>
 </p>

@@ -23,8 +23,8 @@ A passionate Mobile Developer, Competitive Programmer, and Problem-solving Instr
 ### 🔗 Connect with me:
 
 <p align="left">
-  <a href="mailto:abd916587@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/gmail-circled.png" alt="gmail" height="35" width="35" /></a>
-  <a href="https://github.com/abdelwahab-emad" target="_blank"><img align="center" src="https://img.icons8.com/color/48/github-circled.png" alt="github" height="35" width="35" /></a>
+  <a href="mailto:abd916587@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail" height="35" width="35" /></a>
+  <a href="https://github.com/abdelwahab-emad" target="_blank"><img align="center" src="https://img.icons8.com/color/48/github.png" alt="github" height="35" width="35" /></a>
   <a href="https://wa.me/201027234290" target="_blank"><img align="center" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp" height="35" width="35" /></a>
   <a href="https://www.linkedin.com/in/abdelwahab-elrashidy-b74695298" target="_blank"><img align="center" src="https://img.icons8.com/color/48/linkedin-circled.png" alt="linkedin" height="35" width="35" /></a>
   <a href="https://www.facebook.com/abdelwahab.elrashidy/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/facebook-circled.png" alt="facebook" height="35" width="35" /></a>
@@ -35,7 +35,7 @@ A passionate Mobile Developer, Competitive Programmer, and Problem-solving Instr
 ### 📊 My Competitive Programming Profiles:
 
 <p align="left">
-  <a href="https://codeforces.com/profile/Abdelwahab" target="_blank"><img align="center" src="https://img.icons8.com/color/48/codeforces.png" alt="codeforces" height="35" width="35" /></a>
-  <a href="https://leetcode.com/u/abdelwahab_123/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/leetcode.png" alt="leetcode" height="35" width="35" /></a>
-  <a href="https://atcoder.jp/users/abdelwahab_123" target="_blank"><img align="center" src="https://img.icons8.com/color/48/atcoder.png" alt="atcoder" height="35" width="35" /></a>
+  <a href="https://codeforces.com/profile/Abdelwahab" target="_blank"><img align="center" src="https://img.shields.io/badge/-%20-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces" height="35" /></a>
+  <a href="https://leetcode.com/u/abdelwahab_123/" target="_blank"><img align="center" src="https://img.shields.io/badge/-%20-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" height="35" /></a>
+  <a href="https://atcoder.jp/users/abdelwahab_123" target="_blank"><img align="center" src="https://img.shields.io/badge/-%20-222222?style=for-the-badge&logo=atcoder&logoColor=white" alt="atcoder" height="35" /></a>
 </p>

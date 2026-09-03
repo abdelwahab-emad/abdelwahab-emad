@@ -16,6 +16,7 @@ A passionate Mobile Developer, Competitive Programmer, and Problem-solving Instr
   <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
 </p>
 
 ---
@@ -24,10 +25,10 @@ A passionate Mobile Developer, Competitive Programmer, and Problem-solving Instr
 
 <p align="left">
   <a href="mailto:abd916587@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail" height="35" width="35" /></a>
-  <a href="https://github.com/abdelwahab-emad" target="_blank"><img align="center" src="https://img.icons8.com/color/48/github.png" alt="github" height="35" width="35" /></a>
+  <a href="https://github.com/abdelwahab-emad" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="35" width="35" /></a>
   <a href="https://wa.me/201027234290" target="_blank"><img align="center" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp" height="35" width="35" /></a>
-  <a href="https://www.linkedin.com/in/abdelwahab-elrashidy-b74695298" target="_blank"><img align="center" src="https://img.icons8.com/color/48/linkedin-circled.png" alt="linkedin" height="35" width="35" /></a>
-  <a href="https://www.facebook.com/abdelwahab.elrashidy/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/facebook-circled.png" alt="facebook" height="35" width="35" /></a>
+  <a href="https://www.linkedin.com/in/abdelwahab-elrashidy-b74695298" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="35" width="35" /></a>
+  <a href="https://www.facebook.com/abdelwahab.elrashidy/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="35" width="35" /></a>
 </p>
 
 ---

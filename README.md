@@ -38,7 +38,7 @@ A passionate Mobile Developer, Competitive Programmer, and Problem-solving Instr
 <p align="left">
   <a href="https://codeforces.com/profile/Abdelwahab" target="_blank"><img align="center" src="https://codeforces.org/s/0/favicon-32x32.png" alt="codeforces" height="35" width="35" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/abdelwahab_123/" target="_blank"><img align="center" src="https://leetcode.com/favicon.ico" alt="leetcode" height="35" width="35" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://atcoder.jp/users/abdelwahab_123" target="_blank"><img align="center" src="https://img.atcoder.jp/assets/favicon.png" alt="atcoder" height="35" width="35" /></a>
+  <a href="https://atcoder.jp/users/abdelwahab" target="_blank"><img align="center" src="https://img.atcoder.jp/assets/favicon.png" alt="atcoder" height="35" width="35" /></a>
 </p>
 
 ---
